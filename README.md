@@ -10,38 +10,29 @@
 ---
 
 ## Live Demo
-- Primary (Vercel): https://jarvis.vercel.app
+- Primary: https://jarvis-alpha-gold.vercel.app
 
 ## Overview
-JARVIS is a voice-native AI platform for lead capture, appointment workflows, and session intelligence.
+JARVIS is a voice-native platform for professional conversations, lead capture, and appointment workflows.
 This repository is intentionally public as a portfolio/demo surface only.
 
 ## What This Demo Shows
 - Secure login/access portal UX
-- Real-time voice conversation interface
-- Session transcript capture and summary workflow
-- Lead extraction and follow-up flow
-- Admin configuration and operational dashboard
-- Deployment-grade web experience on Vercel
+- Real-time voice interaction experience
+- Session lifecycle workflow and status handling
+- Lead and appointment-oriented conversation flow
+- Admin-facing configuration and monitoring experience
+- Production deployment on Vercel
 
 ## Feature Highlights
-- Voice-first interaction with low-latency startup improvements
-- User session lifecycle: start, monitor, end, and persist
-- Call log visibility for both user and admin contexts
-- Admin safeguards and access control hardening
-- Cookie/compliance overlay and polished auth UI
-- Backend sync hooks for assistant configuration
-
-## Tech Snapshot
-- Flutter Web frontend
-- Supabase backend (Auth, Postgres, RLS)
-- Vapi for voice runtime
-- Mistral-based analysis pipeline
-- Vercel deployment
+- Fast, voice-first interaction design
+- Conversation-to-action workflow
+- Multi-user oriented platform direction
+- Ongoing UX, reliability, and security hardening
 
 ## Security Note
 Source code is private.
-This public repository is for product preview, documentation, and portfolio presentation only.
+This repository intentionally excludes implementation details, backend internals, and deployment secrets.
 
 ## Assets
 - Logo: `assets/jarvis_text.png`

@@ -24,6 +24,11 @@ This repository is intentionally public as a portfolio/demo surface only.
 - Admin-facing configuration and monitoring experience
 - Production deployment on Vercel
 
+## AI & Voice Stack (High Level)
+- **Mistral AI**: Session understanding, concise conversation intelligence, and structured follow-up support.
+- **Vapi Voice Runtime**: Real-time conversational voice interaction and call flow control.
+- **Supabase Database Layer**: User usage tracking, call log persistence, and admin analytics views.
+
 ## Feature Highlights
 - Fast, voice-first interaction design
 - Conversation-to-action workflow

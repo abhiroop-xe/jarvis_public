@@ -35,6 +35,13 @@ This repository is intentionally public as a portfolio/demo surface only.
 - Multi-user oriented platform direction
 - Ongoing UX, reliability, and security hardening
 
+## Recent Updates (v1.315)
+- Improved admin configuration flow for appointment integrations.
+- Added booking-link based scheduling setup for faster onboarding.
+- Expanded appointment experience to include upcoming slot visibility.
+- Tightened user-facing error messaging while keeping admin diagnostics clear.
+- Added faster dismiss controls for in-app notifications.
+
 ## Security Note
 Source code is private.
 This repository intentionally excludes implementation details, backend internals, and deployment secrets.
